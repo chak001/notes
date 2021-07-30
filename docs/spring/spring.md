@@ -167,3 +167,5 @@
 3. **[聊聊mq的使用场景](https://mp.weixin.qq.com/s?__biz=MzA5MTkxMDQ4MQ==&mid=2648932890&idx=1&sn=cc8bd5baeb4fd3632e8448e51cd6f247&chksm=88621a24bf159332562e5255cb12f7376bd144fc34331fbc70c7fae0c85490e5fa97b235f4c8&scene=21&token=765673146&lang=zh_CN#wechat_redirect)**
 4. **[聊聊业务系统中投递消息到mq的几种方式](http://mp.weixin.qq.com/s?__biz=MzA5MTkxMDQ4MQ==&mid=2648932895&idx=1&sn=e29345fc924c0531d8a8c6c5d3abe49b&chksm=88621a21bf159337ab7c27104f52e75d9f1e471b34d954dd3f4e9304394421db161cc05158c1&scene=21#wechat_redirect)**
 5. **[谈谈mq消息消费的几种方式](https://mp.weixin.qq.com/s/BYLW38aOUx4mqgeCwkMjaA)**
+
+https://github.com/coderbruis/JavaSourceCodeLearning/blob/master/note/Spring/%E6%B7%B1%E5%85%A5Spring%E6%BA%90%E7%A0%81%E7%B3%BB%E5%88%97%EF%BC%88%E8%A1%A5%E5%85%85%E7%AF%87%EF%BC%89%E2%80%94%E2%80%94%E7%A8%8B%E5%BA%8F%E8%B0%83%E7%94%A8Spring%E6%BA%90%E7%A0%81.md
